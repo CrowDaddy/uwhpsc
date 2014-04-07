@@ -1,0 +1,6 @@
+Code run by Mighty Panther
+Environment variable UWHPSC is /Volumes/Data/UWHPSC/uwhpsc
+Environment variable MYHPSC is /Volumes/Data/UWHPSC/myhpsc
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
